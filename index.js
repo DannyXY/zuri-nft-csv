@@ -1,8 +1,8 @@
 const fs = require("fs");
-const csv = require("csvtojson");
+const csv = require("csv-parser");
 const sha256 = require("sha256");
-
-const allTeamCsvFilePath = "HNGi9 CSV FILE - Sheet1.csv";
+const { PATH } = require("./csvpath");
+require("dotenv").config({ path: ".env" });
 
 fs.writeFileSync(
   "output.csv",
@@ -16,43 +16,24 @@ fs.writeFileSync(
   }
 );
 
-csv({
-  headers: [
-    "Series Number",
-    "Filename",
-    "Name",
-    "Description",
-    "Gender",
-    "Attributes- Hair. Eyes. Teeth. Skin Color. Clothing. Accessories. Expression. Strrength. Weakness",
-    "Attribute: Hair",
-    "Atribute: Eyes",
-    "Attribute: Teeth",
-    "Attibute: Skin Color",
-    "Attribute: Clothing",
-    "Attribute: Accessories",
-    "Attribute: Expression",
-    "Attribute: Strength",
-    "Attribute: Weakness",
-    "UUID",
-  ],
-  ignoreEmpty: true,
-})
-  .fromFile(allTeamCsvFilePath)
-  .then((result) => {
-    console.log(result[0]);
+const result = [];
+fs.createReadStream(PATH)
+  .pipe(csv({}))
+  .on("data", (data) => result.push(data))
+  .on("end", () => {
+    fs.writeFileSync("output.json", JSON.stringify(result));
     for (let i = 0; i < result.length; i++) {
-      // const jsonObj = result[i];
-      // const keys = Object.keys(jsonObj);
-      // let attributes = [];
-      // console.log(keys);
-      // for (let key in keys) {
-      //   let obj = {};
-      //   if (key.includes("Attributes")) {
-      //     obj[key] = jsonObj[key];
-      //     attributes.push(obj);
-      //   }
-      // }
-      console.log(attributes);
+      const jsonObj = result[i];
+      const keys = Object.keys(jsonObj);
+      let attributes = [];
+      for (let i = 0; i < keys.length; i++) {
+        let key = keys[i];
+        let obj = {};
+        if (key.includes("Attribute")) {
+          obj[key] = jsonObj[key];
+          attributes.push(obj);
+        }
+      }
       const formattedObj = {
         format: "CHIP-0007",
         name: "All team naming",
@@ -65,11 +46,7 @@ csv({
         collection: {
           name: jsonObj["Filename"],
           id: jsonObj["UUID"],
-          attributes: [
-            {
-              gender: jsonObj.gender,
-            },
-          ],
+          attributes: [attributes],
         },
       };
 
@@ -96,7 +73,6 @@ csv({
         }
       );
     }
-    fs.writeFileSync("output.json", JSON.stringify(result));
   });
 
 // Without NPM package

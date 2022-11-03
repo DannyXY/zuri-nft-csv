@@ -11,7 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
+    "csv-parser": "^3.0.0",
     "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "sha256": "^0.2.0"
   }
