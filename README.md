@@ -11,7 +11,7 @@ Once the dependencies are installed, copy the csv file you want to format into t
 Change the path to the relative path of the csv in the csvpath.js file
 
 ```js
-export const PATH = "the Relative Path of your csv"
+const PATH = "the Relative Path of your csv"
 ```
 
 Copy the .env.example file to .env and edit it, with your own values.

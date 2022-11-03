@@ -1,7 +1,7 @@
 const fs = require("fs");
 const csv = require("csv-parser");
 const sha256 = require("sha256");
-const { PATH } = require("./csvpath");
+const path = require("./csvpath");
 require("dotenv").config({ path: ".env" });
 
 fs.writeFileSync(
@@ -15,17 +15,22 @@ fs.writeFileSync(
     }
   }
 );
+console.log(path.PATH);
 
 const result = [];
-fs.createReadStream(PATH)
+//parse csv into JSON using the csvparser
+fs.createReadStream(path.PATH)
   .pipe(csv({}))
   .on("data", (data) => result.push(data))
   .on("end", () => {
+    // write the json output of the csv file into a json file in the root of the directory
     fs.writeFileSync("output.json", JSON.stringify(result));
     for (let i = 0; i < result.length; i++) {
       const jsonObj = result[i];
       const keys = Object.keys(jsonObj);
       let attributes = [];
+      // For every key containing the words attrbute
+      // the name and the value is extracted and added to the CHIP_0007 compatible json
       for (let i = 0; i < keys.length; i++) {
         let key = keys[i];
         let obj = {};
@@ -42,7 +47,7 @@ fs.createReadStream(PATH)
         sensitive_content: false,
         series_number: jsonObj["Series Number"],
         series_total: result.length,
-        attributes: [jsonObj.attributes],
+        attributes: [Object.keys(...attributes)],
         collection: {
           name: jsonObj["Filename"],
           id: jsonObj["UUID"],
@@ -50,15 +55,18 @@ fs.createReadStream(PATH)
         },
       };
 
+      // final JSON object after hashing the previous json using SHA256
       finalObject = {
         ...formattedObj,
         data: {
           hash: jsonObj["Filename"]
-            ? sha256(JSON.stringify(formattedObj) + "lolol")
+            ? sha256(JSON.stringify(formattedObj) + process.env.SHA256_SECRET)
             : "",
         },
       };
 
+      // Continuosly append a new line to the output.csv file for every entry
+      // Filter out the ones with empty names(Team Serials) so their hash doesn't get passed back
       fs.appendFileSync(
         "output.csv",
         `${jsonObj["Series Number"]},${
@@ -68,7 +76,7 @@ fs.createReadStream(PATH)
           if (err) {
             console.log(err);
           } else {
-            console.log("next");
+            return;
           }
         }
       );
