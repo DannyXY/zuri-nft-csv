@@ -1,0 +1,460 @@
+Series Number,Filename,Name,Description,Gender,Attributes- Hair. Eyes. Teeth. Skin Color. Clothing. Accessories. Expression. Strrength. Weakness,Attribute: Hair,Atribute: Eyes,Attribute: Teeth,Attibute: Skin Color,Attribute: Clothing,Attribute: Accessories,Attribute: Expression,Attribute: Strength,Attribute: Weakness,UUID
+TEAM BEVEL,,,,,,,,,,,,,,,
+1,adewale-the-amebo,adewale the amebo,adewale the amebo,male,,,,,,,,,,,cad316c3-37f8-4b27-9f53-9d803bfcfee7
+2,alli-the-queeny,alli the queeny,Alli is an LGBT Stan.,male,,,,,,,,,,,a57ecda4-a26f-4e97-a757-e1800af39aab
+3,aminat-the-snnobish,aminat the snnobish,Aminat never really wants to talk to anyone.,female,,,,,,,,,,,0e37ed0d-3e84-4f32-a91f-ec9c4ba8c7de
+4,aminu-the-carpenter,aminu the carpenter,"Aminu's hands are blessed, he makes the best furniture in the whole of Kano.",male,,,,,,,,,,,4f30b751-96e7-40fe-97fd-e3d44973ff2f
+5,chibuike-the-kudibag,chibuike the kudibag,Chibuike is too rich. Everyone wonders how he got it.,male,,,,,,,,,,,5ce854f2-7ac1-46fd-b3fe-57583935d1e5
+6,chidinma-the-model,chidinma the model,"From Paris' runways, to London's streets, she's always in demand.",female,,,,,,,,,,,c98db72e-49ac-4ca6-89d5-e00f5fbbcc45
+7,chioma-pretty- girl,chioma pretty girl,Chioma's face card is a 100.,female,,,,,,,,,,,182ea888-a85b-42ca-ad73-ed4f8f9aa5c7
+8,damilare-the-handsome,damilare the handsome,He's a fine boy. Everyone loves his face(and him).,male,,,,,,,,,,,27eca2dc-d7df-474a-8f8f-1858152c711e
+9,ebiowie-the-planter,ebiowie the planter,Ebiowei has a reputation for nurturing plants.,male,,,,,,,,,,,f1df8270-4d60-4bd4-8959-ba7c384db5c4
+10,emeka-the-businessman,emeka the businessman,Emeka only cares about containers. No time to waste.,male,,,,,,,,,,,9b3d75da-4887-4089-aee4-50de3954fdc9
+11,gbeminyi-the-monk,gbeminyi the monk,He lives in a monastery off the coast. No one has heard him speak in years.,male,,,,,,,,,,,c8b1fd1d-8551-4bb4-8dc4-923a9aeb39fb
+12,henry-the-sportsman,henry the sportsman,He's played every sport known to man. Even cricket.,male,,,,,,,,,,,e1225451-bfdf-4a1f-8d37-9cce3a0bd67b
+13,mayowa-the-smallie,mayowa the smallie,Mayowa is so small but everyone loves him even still.,male,,,,,,,,,,,dfbb4163-df24-4d54-b74c-6218a68df8bd
+14,muyiwa-the-stylish,muyiwa the stylish,Muyiwa has a motto which is never to be caught unfresh.,male,,,,,,,,,,,dcf9d5a0-57b7-4126-a05e-6c8f1045d3f7
+15,nina-paper-chaser,nina paper chaser,Nina na Igbo girl wey like money. Finish.,female,,,,,,,,,,,59524227-dc52-407c-8cca-e9e8c5fb3018
+16,oluwaseun-spicy,oluwaseun spicy,He loves spicy foods. He cooks pepper and sprinkles rice on top.,male,,,,,,,,,,,808f7007-6552-4efa-bd13-4b7c337b102b
+17,sesan-the-smartie,sesan the smartie,Sesan always comes first in competitions.,male,,,,,,,,,,,ba3edda7-8940-4ca4-97ba-826398d5909f
+18,tiwa-london,tiwa london,"If she says she's in London and you see her, you're in London too.",female,,,,,,,,,,,78da7aeb-8352-4e25-89ac-dc48b5984089
+19,tunde-yoruba-demon,tunde yoruba demon,"Tunde derives joy in breaking girls heart. It's a lifestyle.""",male,,,,,,,,,,,53b46bd7-a537-402b-b249-0b4074a8faae
+20,yakubu-the-zombie,yakubu the zombie,Yakubu earned his zombie title because na only dust full him head.,male,,,,,,,,,,,4adb6781-1614-424e-8f77-fe59ffca2209
+TEAM CLUTCH,,,,,,,,,,,,,,,
+21,abdul-the-vibe,abdul the vibe,abdul the life of the party and can never be caught unfresh,male,,,,,,,,,,,770f817a-9d9a-4772-9a91-e66dd9d03470
+22,emeka-the -clown,emeka the clown,"emeka the funny man, always making silly jokes",male,,,,,,,,,,,78810fa6-a7ef-4d83-bf57-caf49db4ee69
+23,salam-the-odogwu,salam the odogwu,salam is a big time textile marketer always sourcing for quality materials,male,,,,,,,,,,,f2957ded-022c-4b07-92c6-b345d4816a67
+24,24,charles the exporter,charles a business man an importer and exporter never to be caught idle,male,,,,,,,,,,,09395e76-19ed-4852-8748-795ee7496a8e
+25,wole-the-pimp,wole the pimp,wole knows all the babes in town and is always pimping them out,male,,,,,,,,,,,4d94d4f7-9b69-4e43-9db1-1fe83df92857
+26,saro-the-baller,saro the baller,saro is a baller and is always ready to turnup,male,,,,,,,,,,,d35a7514-8996-42fb-a5f2-5a603ec679c5
+27,ade-omo-yoruba,ade omo yoruba,ade a yourba man takes pride in the yourba tribe,male,,,,,,,,,,,92984fa0-310b-4377-8a10-15965d044383
+28,shola-cool-kid, shola cool kid,shola prefers to be alone because he hates stress,male,,,,,,,,,,,3ac5c186-bc14-4eb6-8567-cc818465a64f
+29,charlie-the-smoker,charlie the smoker,charlie uses smoking as a coping mechanism,male,,,,,,,,,,,71a0aa22-d111-43b7-8484-43d87310bc42
+30,femi-the-badguy,femi the badguy,femi is the biggest guy in lagos and he has served plenty babes breakfast,male,,,,,,,,,,,e493e3fb-a8a0-455a-854f-0f6474bbc69f
+31,sinzu-money,sinzu money,sinzu loves spending money on flashy things,male,,,,,,,,,,,942f8347-9932-4331-bd15-d0f3a048b54f
+32,obinna-the-palmwine tapper,obinna the palmwine tapper,obinna taps palmwine for a living,male,,,,,,,,,,,0f1af056-2548-4407-bed4-abc11deae05d
+33,aminu-maikudi,aminu maikudi,aminu is a wealthy man from a family with generational wealth. His exquisite taste shows it,male,,,,,,,,,,,0129e7a5-e3d0-4675-92d0-1a1e55d11612
+34,sabinus-the-town crier,sabinus the town crier,sabinus delivers messages to his town people,male,,,,,,,,,,,01d4ce96-818e-44b1-8813-68a7d34b35ba
+35,adisa-ibadan,adisa ibadan,"adisa the greatest man in the whole town of ibadan, is authority can never be questioned",male,,,,,,,,,,,3a925f27-35f6-4dbf-9960-c6527fae5f3e
+36,linda-the-navigator,linda the navigator,linda knows how to make a way for herself and people around her,female,,,,,,,,,,,71f335a6-5a4f-4410-9cea-179336f0e498
+37,kemi-the-iron lady,kemi the iron lady,kemi the strongest woman known to the town of  igbede people,female,,,,,,,,,,,35b11a31-5b92-49f4-8fb1-30f255d22054
+38,mercy-the-sassy lady,mercy the sassy lady,mercy only care about spending her father's money and treats people like trash,female,,,,,,,,,,,7a3c70ac-927f-4a63-a3df-ab86dd27cd0f
+39,sandra-money,sandra money,sandra likes getting and spending money,female,,,,,,,,,,,1bd95fb0-7b2e-4354-bebd-22f9cf70a1ca
+40,bimpe-the-fashionista,bimpe the fashionista,bimpe loves wearing trendy clothes and looking gorgeous,female,,,,,,,,,,,92b548b7-998b-46b6-8198-80d407209483
+TEAM ENGINE,,,,,,,,,,,,,,,
+41,kim-rich-aunty,kim rich aunty,she loves spoiling her nieces and nephew,Female,,,,,,,,,,,3344a73c-f15e-4afd-a1b2-3199e27eb08f
+42,barbra-vampire-bc,barbra vampire bc,she loves drinking the blood of her victims,Female,,,,,,,,,,,4f31fd99-4918-42a9-a112-fa60ef36d5c6
+43,jean-art-dolger,jean art dolger,loves collecting art for charity ,Female,,,,,,,,,,,5e1105d9-e485-462d-a5bf-1eb931976b13
+44,flora-burger- eater,flora burger eater,she loves eating burgers,Female,,,,,,,,,,,054dffd1-cdff-417b-b6c2-a679dabd087b
+45,jessie-lord-rings,jessie lord rings,she seeks her 'precious',Female,,,,,,,,,,,caacabe1-0abc-43af-92e2-2231248bff93
+46,pinky-monky-ponk,pinky monky ponk,she love to dance the honky tonk,Female,,,,,,,,,,,bd6a4b38-543e-40fa-9153-f7e1a947ebb1
+47,wanjiru-hippie-glitter,wanjiru hippie glitter,a hippie that loves her glitters,Female,"hair:maroon,strength:strong,weakness:spiders",,,,,,,,,,683f0d27-3cb4-4948-b1b5-09f10bee575a
+48,njoki-binary-coder,njoki binary coder,she codes with the best and tops the set,Female,"hair:tight cornrows,strength:good listener,weakness:water",,,,,,,,,,9b59bdb4-0c6c-4107-9d72-6d38d308edb4
+49,wangu-calaba-hustler,wangu calaba hustler,she's a mean hustler so be careful,Female,"hair:ginger red,strength:tender,weakness:being agreeable",,,,,,,,,,67f7da93-3925-4def-b660-58f558c14a19
+50,lulu-dey-kpako,lulu dey kpako,she's as skinny as she is beautiful,Female,"hair:black,strength:brave,weakness:junk food",,,,,,,,,,23b6c38f-ab84-4565-bfe9-d9eb019c9f29
+51,kiki-cala-flier,kiki cala flier,she flies first class and gets the best deals,Female,"hair:white,strength:strong,weakness:spiders",,,,,,,,,,d24aefff-c9fc-4ea9-a7cf-1b741076c822
+52,purity-nft -investor,purity nft investor,she is an angel investor looking for the next big thing,Female,"hair:pink braids,strength:strong,weakness:gossip",,,,,,,,,,ee86ef77-4793-411a-88d3-ea54d84f6b24
+53,june-binary-monk,june binary monk,she has a twin thats from Tibet ,Female,"hair:maroon,strength:goal oriented,weakness:spicy food",,,,,,,,,,102c4cdb-f812-44fd-bf47-5065284c6075
+54,aisha-crows-damsel,aisha crows damsel,she is always a damsel in distress,Female,"hair:brown,strength:protective,weakness:clusterphobic",,,,,,,,,,c4071af3-b49e-4ad6-898b-7828f90465fb
+55,bobo-crypto-lovely,bobo crypto lovely,she is a crpto guru you can trust all through,Female,"hair:bald,strength:kindness,weakness:workerholic",,,,,,,,,,427ea0f5-30a3-4d70-a5bd-a6106409b83c
+56,nell-light -embrace,nell light embrace,she is an empath; ready with a kind word or hug,Female,"hair:yellow cornrows,strength:supportive,weakness:controlling",,,,,,,,,,9dfe30b4-c71a-471c-8091-f5c4a238eed8
+57,rachel-mood-silent,rachel mood silent,"introvert  to the core, a mysterious lady",Female,"hair:maroon,strength:strong,weakness:height",,,,,,,,,,11450acd-f0d7-406f-bc18-bdb680404845
+58,nana-reflector-agent,nana reflector agent,she loves her chrome fashion stye,Female,"hair:blonde ties with a bow,strength: giving,weakness:money",,,,,,,,,,63bda633-bfca-4b28-823f-7772936b4103
+59,bree-busy-gossip,bree busy gossip,"never wisper your secrets to her, except you want the world to know",Female,"hair:black,strength:level headed,weakness:shy around new people",,,,,,,,,,4f5898d9-fc99-4053-a56c-b2ec1ef41347
+60,jude-shadow-fighter,jude shadow fighter,"a ninja warrior, the last samurai standing",Female,"hair:maroon,strength:strong,weakness:spiders",,,,,,,,,,a47b2ed7-d4aa-4404-ac40-0ecea464cf3f
+,,,,,,,,,,,,,,,
+TEAM GRIT,,,,,,,,,,,,,,,
+61,toy-soldier,toy soldier,a man stronger than an army,male,"hair: bald, strengths: powerful, weakness: sentimental",,,,,,,,,,fc8ea3ac-59d1-11ed-9b6a-0242ac120002
+62,pipey-rivers,pipey rivers,a man who loves the water so much and fixes its path,male,"hair:bald, strengths: calculative, weakness: public speaking",,,,,,,,,,58f69cae-59d1-11ed-9b6a-0242ac120002
+63,phiri-of-zambia,phiri of zambia,an african woman with strength and beauty,female,"hair: two purple bun, strengths: free spirit weakness: blind ",,,,,,,,,,24b537fa-59d3-11ed-9b6a-0242ac120002
+64,patrick-of-bikinibottom,patrick of bikinibottom,a white man who loves the African culture and associates with their dressing,male,"hair: bald, strengths: adaptation, weakness: fluency",,,,,,,,,,064c7b84-59d3-11ed-9b6a-0242ac120002
+65,nobuhle-of-zulu,nobuhle of zulu,a woman well endowed with beauty,female,"hair: brown bun, strengths: cool headed, weakness: pressure",,,,,,,,,,1ee5b1ce-59d3-11ed-9b6a-0242ac120002
+66,nkosazana-of-xhosa,nkosazana of xhosa,an african princess always proud of her culture,female,"hair: ginger afro, strengths: confidence, weakness: endurance",,,,,,,,,,2f1a1724-59d3-11ed-9b6a-0242ac120002
+67,mandla-of-zulu,mandla of zulu,a simple and an introvert who keeps to himself,male,"hair: bald, strength: strong willed, weakness: relationship",,,,,,,,,,d04553b2-59d7-11ed-9b6a-0242ac120002
+68,john-doe,john doe,a principled guy who is conscious of his health and ensures protection from infection,male,"hair: bald, strength: cleaniness, weakness: perfectionist",,,,,,,,,,5d19795e-59d2-11ed-9b6a-0242ac120002
+69,ghost-of-power,ghost of power,a woman stronger than ten men combined,female,"hair: black tied with scalf, strength: badass weakness: cancer",,,,,,,,,,29c764ca-59d3-11ed-9b6a-0242ac120002
+70,freida,freida,a man who is always peaceful,male,"hair: bald, strength: peaceful weakness: anger",,,,,,,,,,ee671c4a-59d2-11ed-9b6a-0242ac120002
+71,flamboyant-tree,flamboyant tree,beautiful african woman,female,"hair: one bun dark brown, strength: beauty, weakness: lover girl",,,,,,,,,,380e4990-59d3-11ed-9b6a-0242ac120002
+72,david-of-accra,david of accra,a combatant who fights and defends his people,male,"hair: bald, strength: super powerful, weakness: sleeping",,,,,,,,,,1c1ef1b4-59d1-11ed-9b6a-0242ac120002
+73,cally-lily,cally lily,a man who is a breath of fresh air,male,"hair: male, strength: calm weakness: sun",,,,,,,,,,82bba87c-59d1-11ed-9b6a-0242ac120002
+74,bubune-of-accra,bubune of accra,"a man with honor, always conscious of his health",male,"hair: bald, strength: clean weakness: foodie",,,,,,,,,,faa4b530-59d2-11ed-9b6a-0242ac120002
+75,bediako-of-accra,bediako of accra,a strong man always ready to fight for what is right,male,"hair: bald, strength: activist, weakness: irrational",,,,,,,,,,fb6e8222-59d0-11ed-9b6a-0242ac120002
+76,avatar-aang,avatar aang,a man who is ready to save the world,male,"hair: bald, strength: mind games, weakness: insomia",,,,,,,,,,169f93a0-59d2-11ed-9b6a-0242ac120002
+77,argus-greek,argus greek,a man who you will always find on the look out ,male,"hair: bald, strength: strong , weakness: lateness",,,,,,,,,,e7f26b26-59d2-11ed-9b6a-0242ac120002
+78,amahle-of-zulu,amahle of zulu,"A traditional man, feeling fulfilled",male,"hair: bald, strength: conversationist, weakness: traditionalist",,,,,,,,,,169f93a0-59d2-11ed-9b6a-0242ac120002
+79,agnar-ole,agnar ole,a man who feels like an outcast and always has a battle with his mind,male,"hair: bald, strength: strong willed, weakness: crying",,,,,,,,,,f3f11fd0-59d2-11ed-9b6a-0242ac120002
+80,adom-kulu,adom kulu,"a Ghanaian model, proud of his culture",male,"hair: bald, strength: height,  weakness: pride",,,,,,,,,,00f6589e-59d3-11ed-9b6a-0242ac120002
+,,,,,,,,,,,,,,,
+TEAM PRYBAR,,,,,,,,,,,,,,,
+81,segun-baller,segun baller,,,,,,,,,,,,,58ac5cf6-b644-41c6-af79-ec9aa5f6bdd1
+82,bolanle-pepper-dem,bolanle pepper dem,,,,,,,,,,,,,46966104-775b-4443-90bb-b35afd121653
+83,tayo-tailor,tayo tailor,,,,,,,,,,,,,70828783-ac38-48cf-b966-cfebc92ebd86
+84,ajasco-comedian,ajasco comedian,,,,,,,,,,,,,8bebdb3a-f0a8-47ba-892f-39aa275fbd0d
+85,tobi-babyboy,tobi babyboy,,,,,,,,,,,,,3da592d4-5dec-4bc5-8412-f1b2a0269f95
+86,esther-sassy,esther sassy,,,,,,,,,,,,,0642a25a-966d-446f-b021-a6d18e7fa0c5
+87,ozo-fineboi,ozo fineboi,,,,,,,,,,,,,fdb0a5b6-7367-48bb-bd6b-720ec8c15226
+88,ade-party-girl,ade party girl,,,,,,,,,,,,,7e3db30c-9faf-430d-ab48-b854fe0456b9
+89,john-casco,john casco,,,,,,,,,,,,,2eff88ef-5bc2-4779-917a-533e952e2953
+90,agha-uwa,agha uwa,,,,,,,,,,,,,8478a002-1eba-4a05-8b98-7170c6e39254
+91,udeme-great,udeme great,,,,,,,,,,,,,d1476409-6f8b-4be9-8c93-24d9123749c5
+92,femi-tech-bro,femi tech bro,,,,,,,,,,,,,ba3ec22a-13d5-4e19-9b7f-aac764fda28c
+93,sai-baba,sai baba,,,,,,,,,,,,,fdfff369-5b57-4612-9f89-f5d408f24a35
+94,omo-pastor,omo pastor,,,,,,,,,,,,,49e09559-61a6-41ff-811a-272721a7475c
+95,obi-container,obi container,,,,,,,,,,,,,4b64cf48-94fa-4aed-8cf2-452974b48ee3
+96,erigga-international,erigga international,,,,,,,,,,,,,3ac39a5e-7b0c-4371-b0c8-7cb4b68aed2c
+97,ayo-web3-bro,ayo web3 bro,,,,,,,,,,,,,c137ec2b-18cd-4c29-a194-af29ac9e6c1c
+98,phoebe-queen-bee,phoebe queen bee,,,,,,,,,,,,,1277e9c0-81dc-4747-89df-a9d2ae4fcf96
+99,rachel-warri-babe,rachel warri babe,,,,,,,,,,,,,19e6af3b-ef2d-46ba-ba05-59fb612ebbee
+100,adun-preacher,adun preacher,,,,,,,,,,,,,cc4dfedf-c343-48db-ad67-e39452ec2380
+,,,,,,,,,,,,,,,
+TEAM CHISEL,,,,,,,,,,,,,,,
+101,adebola-omo-oba,adebola omo oba,Adebola loves soft life with her fathers wealth,female,"hair: brown, strength: bold, weakness: big teeths",,,,,,,,,,fbf43611-f267-4cba-bf4b-a3ffdc122589
+102,chichi-the-dancer,chichi the dancer,Chichi loves dancing and party,female,"hair: black hair covered partly with scarf, strength: sawag, weakness: jealousy",,,,,,,,,,e7c32b06-7022-49b4-bbe5-81e8c1d58583
+103,hammed-the-farmer,hammed the farmer,Hammed owns a farm with his family,male,"hair: bald, strength: strong man, weakness: women",,,,,,,,,,e57d8985-599e-49da-8d62-fc16b7ac93f2
+104,farida-the-tivlady,farida the tivlady,Farada is a traditional TIv woman,female,"hair: brown packed hair, strength: outspoken, weakness: over makeup",,,,,,,,,,31d3e229-003e-43c8-ba82-38f49cf58ccb
+105,hannah-the-singer,hannah the singer,Hannah loves singing and belongs to choir,female,,,,,,,,,,,281f5bd7-5282-458b-9811-e369980e7dee
+106,nonso-the-igbogirl,nonso the igbogirl,Nonso is an Igbo girl that loves money,female,,,,,,,,,,,5cfa76df-8376-4505-af12-78af24f108d6
+107,shade-olori,shade olori,Shade loves soft life and makeup,female,,,,,,,,,,,1a07ca73-d39b-43e9-a0f1-ef9f5e57d3a9
+108,quadri-the-teacher,quadri the teacher,Quadri is a devoted teacher that teaches mathematics,male,,,,,,,,,,,d96a93e7-17a4-4efe-b09b-02185cc81ce8
+109,Ifeanyi-the-dj,Ifeanyi the dj,Ifeanyi is a music dj that performs at events,male,,,,,,,,,,,030f665d-2cd7-4376-aef5-4030dad9f2d6
+110,fayo-the-yorubademon,fayo the yorubademon,Fayo is a youruba demon that breaks hearts,male,,,,,,,,,,,e270e278-a9b5-408d-b527-d518239a997b
+111,nkechi-the-actress,nkechi the actress,Nkechi is an internation actress that acts in hollywood,female,,,,,,,,,,,34b1136d-00b1-4f29-8a03-5b02291d47d5
+112,hamzat-the-mallam,hamzat the mallam,Hamsat is a mallam that changes money,male,,,,,,,,,,,592eff9f-93b2-4452-a2ed-5d44ebc969db
+113,nnena-pretty-girl,nnena pretty girl,Nnena is beautiful girl that loves to talk about her beauty,female,,,,,,,,,,,d9477612-ad63-408e-8d12-24679c647b32
+114,tunde-the-boss,tunde the boss,Tunde is a boss that orders her helps around,male,,,,,,,,,,,7635c4ee-04f6-4872-bfc9-37e5a73c8fc6
+115,nnamdi-the-barber,nnamdi the barber,Nnamdi is a baber that does celebrity haircuts,male,,,,,,,,,,,152758f3-9414-45a2-a809-95cb05a3de13
+116,amaka-the-hypepriestess,amaka the hypepriestess,Amaka is a very hyper that she hypes in the clubs,female,,,,,,,,,,,c7726e84-3c5c-4e66-8677-cbfb5c9ee850
+117,kemi-foodie,kemi foodie,Kemi loves food but cannot cook,female,,,,,,,,,,,3116cb6f-14c4-4d5a-af57-54253b72a309
+118,ada-the-fashionister,ada the fashionister,Ada loves fashion that she rarely repeats cloths,female,,,,,,,,,,,a14df1c1-7a5a-4a33-8780-0fb01c593da6
+119,kayode-the-baller,kayode the baller,Kayode loves life and lives it,male,,,,,,,,,,,fe17bfdc-c251-4654-8313-1ab793e11748
+120,kola-of-lagos,kola of lagos,Kola is the life of the party everywhere he is,male,,,,,,,,,,,df295be1-1509-406e-a263-28a5dee0abca
+,,,,,,,,,,,,,,,
+TEAM BRAINBOX,,,,,,,,,,,,,,,
+121,azikiwe-popular-trader,azikiwe popular trader,Azikiwe is a popular trader,Male,"Gold teeth, clothe:isiagu",,,,,,,,,,7ebde325-8efc-4997-811a-b5686269929e
+122,obasanjo-funny-guy,obasanjo funny guy,Obasanjo is so hilarious ,Male,Cloth:ankara ,,,,,,,,,,c136a120-a339-4080-96ca-1c93845c5848
+123,yakubu-village-chief,yakubu village chief,Yakubu is the village chieftain,Male,Gap tooth ,,,,,,,,,,5b0c0d26-d204-4264-b579-081ff9df935b
+124,abacha-loves-smoking,abacha loves smoking,Abacha loves taking pipe,Male,Pleading eyes and a pipe ,,,,,,,,,,8ac6d95f-0cf3-4f54-9cf2-be8834b3004c
+125,johnathan-good-leader,johnathan good leader,A very progressive young man with positivity ,Male,Agbada attire,,,,,,,,,,241e3713-4ce3-48d0-827f-b282ae2db6c4
+126,johnathan-genz-kid,johnathan genz kid,"A child of the moment , all fun and cruise ",Male,Hair; high ponk,,,,,,,,,,90c0ae09-a35f-42ad-b93c-dcf30169acd9
+127,eddy-the-community,eddy the community,Man of the people ,Male,Two teeth and kaftan attire ,,,,,,,,,,5cabf9d9-882b-459e-9253-8c07eb045e2d
+128,olu-the-oba,olu the oba,The oba of Ofuk kingdom ,Male,Pleading face,,,,,,,,,,04c4b28a-aca0-44b1-a064-ed0d9d2a31ca
+129,edu-the-biggest-trader,edu the biggest trader,The biggest merchant in west coast ,Male,Blue eyes,,,,,,,,,,48d1de5f-5f3f-46aa-b2fd-68420a8e802b
+130,james-importer-and-exporter,james importer and exporter,Sole importer and exporter of spare parts in Africa ,Male,Blue eyes,,,,,,,,,,22541251-022f-480c-8c1e-cf754dce16d6
+131,lanre-the-dreaded-guy,lanre the dreaded guy,The wayward tout,Male,Bandana head scarf,,,,,,,,,,66a054cd-5541-4000-98aa-8f2e9892d880
+132,olamide-the-street-boy,olamide the street boy,Friendly street gang,Male,Gold teeth,,,,,,,,,,d50a35b1-b42e-4e0c-8dd8-9b892b56d371
+133,uche-peace-loving-man,uche peace loving man,A man of peace and discipline ,Male,Beard,,,,,,,,,,6c9d6eae-2ea2-468c-a2c8-928aaafc084b
+134,dave-the-tech-bro,dave the tech bro,Dave the web3 geng,Male,Beard,,,,,,,,,,c0857b11-bf0e-46a4-9108-b8eb93d83e74
+135,obi-the-biggest-humanitarian,obi the biggest humanitarian,The biggest helper during the pandemic ,Male,Gold teeth,,,,,,,,,,201a408c-7a2e-42d9-a62c-0136c885c211
+136,precious-the-emotional-girl,precious the emotional girl,Soft hearted and sensitive precious ,Female,Brown hair colour ,,,,,,,,,,b6a41ff1-51ce-42f7-9933-85d0a22ced68
+137,ella-serious-minded,ella serious minded,Ella a dedicated young lady ,Female,Purple hair colour ,,,,,,,,,,04036447-f43e-4bfb-9503-f55c9064b14e
+138,cynthia-cute-eyes,cynthia cute eyes,Cynthia with a priceless cute eyes,Female,Long hair ,,,,,,,,,,5d12847b-6d71-4691-8337-2e6ef3e283b2
+139,mary-with-hair,mary with hair,Mary with her beautiful Afro ,Female,Brown hair,,,,,,,,,,98035e8b-6540-4464-8a3c-fdac9f07b168
+140,ada-chewing-bubble-gum,ada chewing bubble gum,Ada always chewing gum,Female,Black hair ,,,,,,,,,,15309dc5-e483-4658-b503-db85ba2c1722
+,,,,,,,,,,,,,,,
+TEAM PLUG,,,,,,,,,,,,,,,
+141,viganem-the-drummer-girl,viganem the drummer girl,she loves jumping a fence to play drums after school,female,,,,,,,,,,,5a5a6f5c-39f3-4beb-ab74-60d3c7a90fd4
+142,lenusuka-the- big-woman,lenusuka the big woman,The lady that loves spending money and buying everybody asaobi,female,,,,,,,,,,,e564a43a-ef77-487d-a88e-749d20a09fd8
+143,enepua-the-clout-queen,enepua the clout queen,The lady that travels all day and enjoys snapping food at restaurants,female,,,,,,,,,,,6dc7e452-0626-4f4c-a28c-f5db3532e305
+144,usifong-queen-of-mushin,usifong queen of mushin,Changes her hair every 2 weeks and cannot finish one pure water,female,,,,,,,,,,,221263d0-8775-49f8-bbf8-4b08b49e1482
+145,akinyim-the-agbaya,akinyim the agbaya,Always playing with small childrens and mostly small girls,male,,,,,,,,,,,c1070dce-48a1-4ae8-b9a4-d070859a8377
+146,zawadi-mr-sleep-everywhere,zawadi mr sleep everywhere,Likes sleeping in the weirdest places especially in clubs,male,,,,,,,,,,,c22489fe-574b-47f3-9667-c9c798b2d4df
+147,chepkirui-mr-self-love,chepkirui mr self love,Likes taking care of himself and spending on himself,male,,,,,,,,,,,1a91e778-d214-476b-a667-94e9ecb8b5ce
+148,naserian-mr-fear-fear,naserian mr fear fear,Has never slept with anyone and can not kill cockroach,male,,,,,,,,,,,8177cf38-8284-4eb4-b19c-04473bcb3b5e
+149,wawuda-the-ashawo-of-africa,wawuda the ashawo of africa,Brags about his body count and follows skirt anywhere,male,,,,,,,,,,,0554bf35-f588-4009-aafc-ef875b878c29
+150,kerubo-the-igbo-smoker,kerubo the igbo smoker,Loves only his igbo and is happy when he finds an old blunt,male,,,,,,,,,,,33ba8e73-7949-4bc7-ba27-37ee1d573946
+151,rehema-the- olodo,rehema the olodo,Failed primary 5 eight times and like playing football after school,male,,,,,,,,,,,1fb33783-4898-48cf-8a73-f81afc71e1a8
+152,nekesa-the-brainbox,nekesa the brainbox,A proposed elite who cannot write a simple speech,,,,,,,,,,,,7ba909bd-19a1-454d-a86c-a45e85cb94a6
+153,kiokoli-the-slowrunner,kiokoli the slowrunner,Always running in every race but never making it to the first 5,,,,,,,,,,,,d7027b6c-ae53-4cce-b80d-67aeb7ceb1ba
+154,adjuani-uncle-wire-wire,adjuani uncle wire wire,Mugu money spender that loves spending on women extravagantly,,,,,,,,,,,,36cd959f-d280-41f6-af76-765715c72527
+155,ajobaru-a-serial-killer,ajobaru a serial killer,High end assasin who cannot survive a day without sex,,,,,,,,,,,,9d262f55-73d7-4b95-9a82-42356dbb085c
+156,effiadem-the-fireman,effiadem the fireman,A retired military general who always loves shooting at sight,,,,,,,,,,,,a4534fe0-b5ed-41ab-af72-1f2d0ff0fc64
+157,deladem-the-commandoo,deladem the commandoo,The nerd who has watched all war movies but cannot fight a kid,,,,,,,,,,,,88106b92-da30-46ad-a3cc-d528683b9e33
+158,dogbeda-the-monger,dogbeda the monger,A fisherman who pracitically live in the river,,,,,,,,,,,,66a09968-cb92-4378-a588-49947f68c537
+159,enyonyam-our-slay-mama,enyonyam our slay mama,Posts new pictures everyday and can snub for africa,,,,,,,,,,,,5e7c7f9d-d631-4759-9b27-cbaccd33d39f
+160,lumusi-pro-technician,lumusi pro technician,The electrician well known for wiring burnt buildings,,,,,,,,,,,,b07676a6-c611-410d-8426-46c9c525189a
+,,,,,,,,,,,,,,,
+TEAM HEADLIGHT,,,,,,,,,,,,,,,
+161,funmi-the-fashionist,funmi the fashionist,funmi enjoys fashion and she always takes opportunity to showcase her wardrobe,Female,,,,,,,,,,,4f9d99a4-78a2-4fdd-bc30-b027600fa88e
+162,bola-the-funky,bola the funky,Bola is a funky fellow but she has another personality no one knows,Female,,,,,,,,,,,ac721b71-cbc5-425c-851f-ee826973f0b9
+163,bimpe-the-runzgirl,bimpe the runzgirl,"be careful with bimpe, she can run you strong thing",Female,,,,,,,,,,,eaa7662f-6926-468a-9add-e791916ae42b
+164,sola-the-queen,sola the queen,sola is a princess. she's got the mind of a queen,Female,,,,,,,,,,,d5f23ad3-832a-4d3e-814e-e23f466d18a4
+165,temi-afro-girl,temi afro girl,"temi is know for her funny haircut. this time, afro is up",Female,,,,,,,,,,,4f9d99a4-78a2-4fdd-bc30-b027600fa88e
+166,jonny-the-bravo,jonny the bravo,jonny is our local police. he breaks boys free,Male,,,,,,,,,,,2b345988-b4b0-453b-ad39-efe1321bc8f1
+167,tunde-the-bigman,tunde the bigman,tunde is the big man on the street. flamboyant life style is his identity,Male,,,,,,,,,,,56db423e-8b09-453e-b5fc-61f4da9d7a6f
+168,joe-the-plain,joe the plain,plain and simple. no one in town is more gentle that broda joe,Male,,,,,,,,,,,7a3083bd-5aa2-48b5-a30b-4445cc060f57
+169,wale-sharp-guy,wale sharp guy,wale no de carry last. the thinks and act fast,Male,,,,,,,,,,,44906ea0-901b-4b3d-802f-f73acc8758f6
+170,dele-the-snoozer,dele the snoozer,"if sleeping were to be a job. dele will be the world busiest man. set a bed in a fury furnace for dele, he'll sleep.",Male,,,,,,,,,,,4f9d99a4-78a2-4fdd-bc30-b027600fa88e
+171,father -of -tolu,father of tolu,baba tolu is a proud father. he will sell his soul just to see tolu excel in life,Male,,,,,,,,,,,a2651258-ca3f-4940-b095-3a61ff630263
+172,emeka-the-chief,emeka the chief,chief emeka is the pillar of the community. just and fair to all. the real mazi,Male,,,,,,,,,,,de25fd63-dafd-4f77-8072-7ac0ae3a3ab2
+173,lawal-the-drooler,lawal the drooler,"lawal has only 2 business, alcoholism and alcoholism. it's only normal for him to drool afterll",Male,,,,,,,,,,,806b640f-1c8b-4cc0-aa10-45f3ddc00140
+174,solo-the-messenger,solo the messenger,"solo is a multitasker. you need anything done in your home, solo is your guy",Male,,,,,,,,,,,44906ea0-901b-4b3d-802f-f73acc8758f6
+175,femi-the-honorable,femi the honorable,honorable femi is the modern day politician. everything he does is only to further his political career,Male,,,,,,,,,,,af53bf52-b517-4347-adc6-07cf30c19025
+176,friday-the-bigsboy,friday the bigsboy,friday always live up to his name. every friday is for the party.,Male,,,,,,,,,,,05ec3aae-7da8-4125-93fb-6fc544e5bc61
+177,kweku-the-planter,kweku the planter,kweku says he did it. kweku dey plant Igbo until he was bursted,Male,,,,,,,,,,,af53bf52-b517-4347-adc6-07cf30c19025
+178,2pac-the-remix,2pac the remix,2pac is alive in him. his style is exactly the same. upcoming artist,Male,,,,,,,,,,,9993e5ec-2f31-485c-9c6d-f780c078ae56
+179,tope-the-influencer,tope the influencer,tope is a famous influencer. loved by his followers which keep growing everyday,Female,,,,,,,,,,,3b3e1f66-922b-4f87-8cdb-0d09fc143182
+180,gabby-the-evangelist,gabby the evangelist,"evangelist Gabby, blending gospel with comedy. he's going places",Male,,,,,,,,,,,ac721b71-cbc5-425c-851f-ee826973f0b9
+,,,,,,,,,,,,,,,
+TEAM CRANKSHAFT,,,,,,,,,,,,,,,
+181,beauty-of-town,beauty of town,She is the most beautiful in the neighbourhood,Female,,,,,,,,,,,7241a1be-59da-11ed-9b6a-0242ac120002
+182,lola-babe,lola babe,Looking hot as always,Female,,,,,,,,,,,7241a664-59da-11ed-9b6a-0242ac120002
+183,cardy_h-sharp-babe,cardy h sharp babe,Cardy is the sharpest amongst her friends,Female,,,,,,,,,,,7241a7c2-59da-11ed-9b6a-0242ac120002
+184,bella-the-baller,bella the baller,Baller for Life,Female,,,,,,,,,,,7241ad26-59da-11ed-9b6a-0242ac120002
+185,milly-of-roses,milly of roses,Her lips so red like a rose,Female,,,,,,,,,,,7241af92-59da-11ed-9b6a-0242ac120002
+186,Preciousjada-the-viper,Preciousjada the viper,Her words stings likes a viper,Female,,,,,,,,,,,7241b12c-59da-11ed-9b6a-0242ac120002
+187,lolly-of-NY,lolly of NY,Most popular in NY,Female,,,,,,,,,,,7241b2ee-59da-11ed-9b6a-0242ac120002
+188,Disy-the-dancer,Disy the dancer,Dances her way into any show,Female,,,,,,,,,,,7241b4c4-59da-11ed-9b6a-0242ac120002
+189,Jenny-the-great,Jenny the great,The greatest of our time,Female,,,,,,,,,,,7241b852-59da-11ed-9b6a-0242ac120002
+190,lolly-the-pop,lolly the pop,Seeing lolly makes me pop,Female,,,,,,,,,,,7241ba00-59da-11ed-9b6a-0242ac120002
+191,disy-the-queen,disy the queen,The queen in her own space,Female,,,,,,,,,,,7241bda2-59da-11ed-9b6a-0242ac120002
+192,JennyP-of-Lagos,JennyP of Lagos,A well known celebrity in Lagos,Female,,,,,,,,,,,7241bf1e-59da-11ed-9b6a-0242ac120002
+193,Jada-of-life,Jada of life,Her business signature,Female,,,,,,,,,,,7241c202-59da-11ed-9b6a-0242ac120002
+194,Sandy-the-rapper,Sandy the rapper,She just loves to rap,Female,,,,,,,,,,,7241c342-59da-11ed-9b6a-0242ac120002
+195,Dahila-the-genius,Dahila the genius,The genius in the family,Female,,,,,,,,,,,7241c4fa-59da-11ed-9b6a-0242ac120002
+196,Rosemary-of-Yaba,Rosemary of Yaba,She has a cloth store in Yaba,Female,,,,,,,,,,,7241c61c-59da-11ed-9b6a-0242ac120002
+197,Jennifer-of -island,Jennifer of island,She goes on vacation to the island,Female,,,,,,,,,,,7241ca18-59da-11ed-9b6a-0242ac120002
+198,Opeyemi-of-lekki,Opeyemi of lekki,Opeyemi lives in lekki,Female,,,,,,,,,,,7241c8e2-59da-11ed-9b6a-0242ac120002
+199,Vicky-the-artist,Vicky the artist,Brings life into what she draws,Female,,,,,,,,,,,7241cb3a-59da-11ed-9b6a-0242ac120002
+200,Afrogirl-sailor,Afrogirl sailor,She loves to sail the ocean,Female,,,,,,,,,,,7241cc66-59da-11ed-9b6a-0242ac120002
+,,,,,,,,,,,,,,,
+TEAM GEAR,,,,,,,,,,,,,,,
+201,Yemi-singer,,,,,,,,,,,,,,
+202,Joshua-the-runner,,,,,,,,,,,,,,
+203,Khalessi,,,,,,,,,,,,,,
+204,Khal-drogo,,,,,,,,,,,,,,
+205,,,,,,,,,,,,,,,
+206,,,,,,,,,,,,,,,
+207,,,,,,,,,,,,,,,
+208,,,,,,,,,,,,,,,
+209,,,,,,,,,,,,,,,
+210,,,,,,,,,,,,,,,
+211,,,,,,,,,,,,,,,
+212,,,,,,,,,,,,,,,
+213,,,,,,,,,,,,,,,
+214,,,,,,,,,,,,,,,
+215,,,,,,,,,,,,,,,
+216,,,,,,,,,,,,,,,
+217,,,,,,,,,,,,,,,
+218,,,,,,,,,,,,,,,
+219,,,,,,,,,,,,,,,
+220,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+TEAM TAPE,,,,,,,,,,,,,,,
+221,hng-newbie,hng newbie,A confused hng participant that cannot understand her project,Female,,,,,,,,,,,0ddbd22c-b3bb-4c72-9f51-0361480bbfa7
+222,nene-caroline,nene caroline,A housewife that loves taking care of her family,Female,,,,,,,,,,,4ce5bcf3-d4ed-4277-8187-cb1797c1ac7e
+223,wazo-partystopper,wazo partystopper,A Nigerian aunty that loves to attend owambe parties,Female,,,,,,,,,,,77237cce-bae0-4d60-adad-27055f0eed39
+224,melanin-janet,melanin janet,A young lady with a soft personality,Female,,,,,,,,,,,a5a2854e-a850-4b15-b3c3-176a79b2d34b
+225,leo-sugarmummy,leo sugarmummy,A middle age wild yankee returnee,Female,,,,,,,,,,,7ec03993-f500-4a41-aa3c-a73df7a0fbed
+226,novice-joane,novice joane,A princess worried about finding true love,Female,,,,,,,,,,,a5d49163-41b1-43fe-ad7f-0c78ef530b1a
+227,goofy-simbi,goofy simbi,An eccentric teenager that loves music,Female,,,,,,,,,,,df7dc588-f99c-4592-84f6-08b40047d9d1
+228,akwaaba-ghana,akwaaba ghana,A depressed gothic introvert,Female,,,,,,,,,,,d1e8b38b-994b-487c-890b-9034d3ab7dcb
+229,aunty-toyin,aunty toyin,An oversabi family member,Female,,,,,,,,,,,1326ef4b-224a-497e-9452-e63a4486e387
+230,pretty-hauwa,pretty hauwa,A young bride involved in an early marriage,Female,,,,,,,,,,,7c771f82-a512-403c-91b9-6736318a8796
+231,chimamanda-enugu,chimamanda enugu,a young lady born during the war,Female,,,,,,,,,,,eaad5c98-3f85-4480-9c4e-b73340cfba4f
+232,kente-solape,kente solape,a respectful and diligent princess,Female,,,,,,,,,,,613ce65c-4b16-43f8-a0d9-b5ea8c5f2195
+233,vamp-karishika,vamp karishika,Queen of the darkness,Female,,,,,,,,,,,c4ee8a54-0874-4a7f-8344-dea8ba41f5dc
+234,genz-monique,genz monique,A sassy lady with her own vibe,Female,,,,,,,,,,,b5328f13-b918-4e76-8d4c-8b4aec5eb5fe
+235,femi-boltz,femi boltz,A driver hustling his way through life,Male,,,,,,,,,,,03e8d36d-5bdc-4da4-8f64-c1738eb9d1db
+236,agba-tech,agba tech,A tech bro that loves to party but has bad communication skill,Male,,,,,,,,,,,403f28a0-6aa7-4f80-997f-b0982c169baa
+237,brian-richkid,brian richkid,A trust fund baby that does not know how to manage money,Male,,,,,,,,,,,9d945d79-dd2d-4755-b9c7-bff837be8557
+238,nandi-zulu,nandi zulu,A fierce African Queen,Female,,,,,,,,,,,09702bc0-d10c-48d3-a1e9-2aaa4e9f3f39
+239,ade-demon,ade demon,A lekki playboy that makes money from crypto,Male,,,,,,,,,,,0be2d50b-3e57-4e39-a199-b211d2be860c
+240,karim-rapper,karim rapper,A young and proud Lagos rapper,Male,,,,,,,,,,,169b58f8-b84a-4ab3-a4b6-d1c5b36aa1d3
+,,,,,,,,,,,,,,,
+TEAM AXLE,,,,,,,,,,,,,,,
+241,bobo-alinco,bobo alinco,Alinco always in the mood for play,male,hair colour: dark brown,,,,,,,,,,ede853c4-5abd-11ed-9b6a-0242ac120002
+242,chi-lastborn,chi lastborn,"Baby of the house, the lastborn of an average Nigerian family",female,,,,,,,,,,,ede85964-5abd-11ed-9b6a-0242ac120002
+243,uju-robo-robo,uju robo robo,An aso-oke business woman at balogun market,female,"accessories: ankara beret,",,,,,,,,,,ede85f90-5abd-11ed-9b6a-0242ac120002
+244,yetunde-anifowose,yetunde anifowose,Old money lady who was in UK before UK was UK,female,"accessories: tobaco pipe,",,,,,,,,,,ede861b6-5abd-11ed-9b6a-0242ac120002
+245,dumebi-jjc,dumebi jjc,Innocent 100 level girl wey never spoil,female,,,,,,,,,,,ede865da-5abd-11ed-9b6a-0242ac120002
+246,ukwu-nengi,ukwu nengi,Well endowed woman who will always make heads turn,female,,,,,,,,,,,ede86800-5abd-11ed-9b6a-0242ac120002
+247,nonso-malay,nonso malay,"Man on the move. It is either ego, or money my bloder",male,,,,,,,,,,,ede86a12-5abd-11ed-9b6a-0242ac120002
+248,saro-texaco,saro texaco,An oil tycoon who dominates,male,accessories: cap,,,,,,,,,,ede86c2e-5abd-11ed-9b6a-0242ac120002
+249,akpos-agbero,akpos agbero,A Warri boy always in the mood for violence,male,accessories: cap,,,,,,,,,,ede86e22-5abd-11ed-9b6a-0242ac120002
+250,kasali-danfo,kasali danfo,A danfo driver popular for his positive outlook of life,male,accessories: cap,,,,,,,,,,ede86fbc-5abd-11ed-9b6a-0242ac120002
+251,osaz-benz,osaz benz,an Internet fraudster who hails from Edo state,male,teeth: gold,,,,,,,,,,ede87fca-5abd-11ed-9b6a-0242ac120002
+252,kareem-kasanova,kareem kasanova,Abuja big boy who knows he can get any lady he wants,male,accessories : cap,,,,,,,,,,ede8820e-5abd-11ed-9b6a-0242ac120002
+253,mayor-of-uyo,mayor of uyo,Essien is a top Lagos businessman who hails from Uyo,male,accessories: cap,,,,,,,,,,ede883c6-5abd-11ed-9b6a-0242ac120002
+254,chinedu-china,chinedu china,An Nnewi blooded spareparts importer and exporter with goods from china,male,accessories: cap,,,,,,,,,,ede885f6-5abd-11ed-9b6a-0242ac120002
+255,papa-ekene,papa ekene,The oldest man of the Akwauzu clan,male,accessories: cap,,,,,,,,,,ede88808-5abd-11ed-9b6a-0242ac120002
+256,ogbeni-rauf,ogbeni rauf,Minister of enjoyment for Freedom state,male,"teeth: gold, accessories: cap",,,,,,,,,,ede889fc-5abd-11ed-9b6a-0242ac120002
+257,koffi-banku,koffi banku,E be Charlie wey no dey use en stomach play,male,,,,,,,,,,,ede88c2c-5abd-11ed-9b6a-0242ac120002
+258,alhaji-bello,alhaji bello,Rich hausa business mongul controlling half of cow production in Nigeria,male,teeth: gold accessories: cap,,,,,,,,,,ede88efc-5abd-11ed-9b6a-0242ac120002
+259,toju-mafejopami,toju mafejopami,Toju is a street hustler wey no like stress,male,"teeth: gold, accessories: cap",,,,,,,,,,ede895d2-5abd-11ed-9b6a-0242ac120002
+260,femi-maserati,femi maserati,"Rich kid who resides in lekki, known by everybody because he drives a Maserati",male,accessories: cap,,,,,,,,,,ede89802-5abd-11ed-9b6a-0242ac120002
+,,,,,,,,,,,,,,,
+TEAM POWERDRILL,,,,,,,,,,,,,,,
+261,Paul-the-comedian,Paul the comedian,Paul trying hard to make everyone laugh so hard and fall off the chair,Male,"hair:bald, strengths: calculative, weakness: public speaking",,,,,,,,,,f8112915-64ca-41e5-9ca4-5b60c47d7a01
+262,Amina-lagos-housewife,Amina lagos housewife,Amina is always showing the rich housewife vibes,Female,"Cap, Eye glasses, face mask, none",,,,,,,,,,5612f542-d85e-4a2c-8661-20553dfd07bf
+263,Kiekie-the-asoebibella,Kiekie the asoebibella,Kiekie is classfied as the life of the party,Female,,,,,,,,,,,097014d5-0ef3-46f5-9a9b-5c01f70114b3
+264,Kunle-the-hunter,Kunle the hunter,Kunle goes for the best and hits all his targets at bull's eye,Male,,,,,,,,,,,b0310fc2-4bed-48e5-abfc-566c964786d7
+265,Amara-the-hairstylist,Amara the hairstylist,Amara is truly your one stop shop for all your hair & beauty needs.,Female,,,,,,,,,,,412345b9-7e04-4102-af7c-5458721ac64d
+266,Mary-nail-technician,Mary nail technician,Mary makes magic with her press-on nails,Female,,,,,,,,,,,17ea9c3b-c90f-4023-84d6-d563c098b030
+267,Odogwu-oil-contractor,Odogwu oil contractor,"From Malaysia to Kaduna, Odogwu's oil is known.",Male,,,,,,,,,,,b503bbfb-f972-4d4a-9352-e9dfe6671d36
+268,Simisola-the-kenteprincess,Simisola the kenteprincess,Simisola rocks kente even in swim outfits,Female,,,,,,,,,,,45843017-b421-4413-8e35-7a6ef073f2b9
+269,Mariam-beauty-queen,Mariam beauty queen,Beauty is a fairy tale where Mariam appears.,Female,,,,,,,,,,,b7d96d97-84c2-485f-b60e-e4e86c4d3b34
+270,Obinna-the-musician,Obinna the musician,Obinna might never be an a-list artist,Male,,,,,,,,,,,afdb0299-327c-46b2-9262-faf90f0fcd12
+271,Sandra-the-shybaby,Sandra the shybaby,Sandra is too shy at parties,Female,,,,,,,,,,,bfed40a8-74f7-4ada-ae18-975130247efa
+272,Chiamaka-the-dancer,Chiamaka the dancer,Chiamaka dances so well and earned the Guinness world record.,Female,,,,,,,,,,,43c49497-8d7b-42ef-bb29-769f6c3b0ada
+273,Mensah-fashion-icon,Mensah fashion icon,Mensah outfits are always giving us Christopher Hemsworth vibes.,Male,,,,,,,,,,,87ada09b-38ac-475c-8d46-18680c2dc795
+274,Lucy-the-fumigator,Lucy the fumigator,Lucy is nicknamed the pest hilter,Female,,,,,,,,,,,c7269d44-aab3-41e7-a54f-18a14f575a6b
+275,Nneka-wedding-planner,Nneka wedding planner,Nneka plans the best weddings with great details.,Female,,,,,,,,,,,31ac6b7a-e378-4dc3-999d-b9e8d8473f99
+276,Shakira-the-gangster,Shakira the gangster,Shakira is the most feared criminal.,Female,,,,,,,,,,,dbdc1351-aa07-46e2-935f-2db071b1b23d
+277,Lola-afropopping-princess,Lola afropopping princess,Lola licks lollipops like an afropop queen,Female,,,,,,,,,,,2f5cadae-e423-4478-8220-37b3ac144169
+278,Sharon-walking-dead,Sharon walking dead,When tired Sharon walks like the dead,Female,,,,,,,,,,,1fc37341-7dd1-480c-a01b-a63bee0a2230
+279,Olivia-great-teacher,Olivia great teacher,Students enjoys Olivia's classes,Female,,,,,,,,,,,cfc4419e-bd46-40f6-9654-632ac1138ff1
+280,Nicole-sleep-warrior,Nicole sleep warrior,"Nicole holds the sleep award in our community, she wouldn't wake up at the sound of a detonated nuclear bomb.",Female,,,,,,,,,,,710ae821-4603-4124-bd60-a33b515b3b8d
+,,,,,,,,,,,,,,,
+TEAM HYDRAULICS,,,,,,,,,,,,,,,
+281,Busola-the-shakara,Busola the shakara,She is a fashion icon that loves luxurious items.,Female,,,,,,,,,,,ec4a855a-5ceb-4f1b-bbd7-a995aa45e875
+282,Bella-the-artist,Bella the artist,A lady that host a fashion week show,Female,,,,,,,,,,,48772412-dacb-4984-9e82-8d24fe101265
+283,Queen-the-extrovert,Queen the extrovert,A woman who enjoys being high all the time,Female,,,,,,,,,,,1712532a-20d9-4ccb-8582-bffd76c9fb67
+284,Mary-toxic-lady,Mary toxic lady,A lady who's toxic around people,Female,,,,,,,,,,,bc31af8d-c45d-4797-adfc-596fb22e4e3a
+285,Elizabeth-the-richkid,Elizabeth the richkid,A university undergraduate from a rich background,Male,,,,,,,,,,,21fad782-1b6f-4c2d-b157-9fdb9355c876
+286,Larry-the-westerner,Larry the westerner,A Yoruba Man who smokes his pipe in peace,Male,,,,,,,,,,,d4984fa6-dabf-409f-839f-76742ec71500
+287,Danjuma-the-shocked,Danjuma the shocked,A pensioneer who got told his bank is on distress,Male,,,,,,,,,,,0187ca7f-f3b1-42ae-9e17-c46d58617608
+288,Yomi-the-fashionista,Yomi the fashionista,Winner of the Lagos GT Bank fashion week.,Male,,,,,,,,,,,16d256ba-dc4e-4559-ae41-59779f351ad3
+289,Ibu-the-importer,Ibu the importer,A rich igbo trader who imports goods in onitsha market,Male,,,,,,,,,,,d3edc876-3f2f-4699-a376-0787bb06c5d5
+290,Massa-the-ghanian,Massa the ghanian,A rich Ghanian trader.,Male,,,,,,,,,,,9a9a5fbd-7a3c-469c-95f2-50303c2e9fc8
+291,James-the-musician,James the musician,A yoruba juju artist,Male,,,,,,,,,,,0d4ad447-3836-47cd-8387-066b200cda01
+292,Gbenga-titled-man,Gbenga titled man,A yoruba chief who is also a car dealer,Male,,,,,,,,,,,dc6c1a39-ec78-44ca-8296-68c6de7b5de4
+293,Abaga-the-rapper,Abaga the rapper,A flashy millionaire and a music rapper,Male,,,,,,,,,,,c428411c-5a06-4b74-bd17-e53b76f9fc6c
+294,Izuchukwu-the-fisherman,Izuchukwu the fisherman,A fisherman who knows how to paddle well,Male,,,,,,,,,,,15e1caf2-06b3-45d8-9b35-f95965b64e34
+295,Mark-the-philanthropist,Mark the philanthropist,A London based philantropist.,Male,,,,,,,,,,,b48cbd98-96c2-4ec4-9d17-2c798be5b90f
+296,Desmond-the-politician,Desmond the politician,A young politician who just became a minister,Male,,,,,,,,,,,c52d4fbb-622b-4e2b-85a9-1a1d0f3d97d6
+297,Okoro-the-bachelor,Okoro the bachelor,A local palm wine tapper with hopes and dreams,Male,,,,,,,,,,,e441439d-49a3-41eb-bf9d-3c7f98c268bf
+298,Saro-the-clothemaker,Saro the clothemaker,The yoruba man that stole the king's wife.,Male,,,,,,,,,,,7e10af4e-1252-4f96-83a8-78411e152bae
+299,Kalu-the-ichie,Kalu the ichie,A man of wealth with afluence spreading all over the east,Male,,,,,,,,,,,482ab247-73a4-4ff8-9172-732f3d0729b8
+300,Tamuno-the-prince,Tamuno the prince,An Ijaw prince who is also the heir to the throne,Male,,,,,,,,,,,108447d1-f2d5-4816-8ebb-599286c3fabf
+,,,,,,,,,,,,,,,
+TEAM SCALE,,,,,,,,,,,,,,,
+301,wendy-the -banker,wendy the  banker,"Wendy loves working in the bank, as she gets to meet different people.",Female,,,,,,,,,,,587645e2-5ace-11ed-9b6a-0242ac120002
+302,uduak-the -dark horse,uduak the dark horse,Uduak looks innocent and has the whole apartment bugged,Female,,,,,,,,,,,58764862-5ace-11ed-9b6a-0242ac120002
+303,timeyin-the -eccentic,timeyin the eccentic,Timeyin is as eccentric as they come with no care for others opinions,Female,,,,,,,,,,,58764a2e-5ace-11ed-9b6a-0242ac120002
+304,omawunmi-the -businesswoman,omawunmi the businesswoman,Omawunmi is a no-nonsense woman with a shop in idumota,Female,,,,,,,,,,,58764b78-5ace-11ed-9b6a-0242ac120002
+305,halima-the-housewife,halima the housewife,Halima loves to bake and cook for her children,Female,,,,,,,,,,,58764d8a-5ace-11ed-9b6a-0242ac120002
+306,muna-the -block sister,muna the block sister,Muna loves to tell everyone in the block about her younger escapades,Female,,,,,,,,,,,58764ea2-5ace-11ed-9b6a-0242ac120002
+307,stella-the -gossip,stella the gossip,Nobody gossips on the block like stella when smoking.,Female,,,,,,,,,,,58764fd8-5ace-11ed-9b6a-0242ac120002
+308,agbani-the-wannabe,agbani the wannabe,Agbani loves to shop antique ndecorations for her mansion in idi-iroko,Female,,,,,,,,,,,5876542e-5ace-11ed-9b6a-0242ac120002
+309,asante-the -warrior,asante the warrior,Asante came from along line of warriors in Ghana,Female,,,,,,,,,,,58765578-5ace-11ed-9b6a-0242ac120002
+310,hilda-the -insomaniac,hilda the insomaniac,Hilda prefers to sleep during the day,Female,,,,,,,,,,,5876569a-5ace-11ed-9b6a-0242ac120002
+311,sisi yemi-the -street aunty,sisi yemi the street aunty,Sisi Yemi is everyone's favourite street aunty.,Female,,,,,,,,,,,587657a8-5ace-11ed-9b6a-0242ac120002
+312,chiamaka-the -bully,chiamaka the bully,Chiamaka hates people in her business and likes to scare the kids on the block,Female,,,,,,,,,,,587658ca-5ace-11ed-9b6a-0242ac120002
+313,gift-the-fashionista,gift the fashionista,Gift has always been bold and that spreads to her fashion sense too.,Female,,,,,,,,,,,58765adc-5ace-11ed-9b6a-0242ac120002
+314,omoyene-the-weirdo,omoyene the weirdo,Omoyene likes to murmur to herself and talks about seeing ghosts,Female,,,,,,,,,,,58765bea-5ace-11ed-9b6a-0242ac120002
+315,maria-the -freshface,maria the freshface,Maria likes to believe the world is sunshine and rainbows while blowing gum,Female,,,,,,,,,,,58765d02-5ace-11ed-9b6a-0242ac120002
+316,monica-the -smoker,monica the smoker,Monica is never found without a pipe and loves to interject in every conversation,Female,,,,,,,,,,,58765e24-5ace-11ed-9b6a-0242ac120002
+317,,,,,,,,,,,,,,,
+318,,,,,,,,,,,,,,,
+319,,,,,,,,,,,,,,,
+320,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+TEAM SANDPAPER,,,,,,,,,,,,,,,
+321,Omunyinyi-the-stoic,omunyinyi the stoic,omunyinyi wears a Kitenge coat,male,Hair: bald Eyes: tearyTeeth: noneSkin: brownskinClothing: checked ankara Accessories: None Expression: Teary Strength: powerful Weakness: self-loathing,,,,,,,,,,c2d6a3ac-1d4d-4268-ba7f-4f0f8f50c1ab
+322,Kamau-the-sleeper,kamau the sleeper,closed eyes meditating,male,Hair: Blad Eyes: closed Teeth:  noneSkin: brownskin Clothing: black ankara Accessories: none Expression: flat Strength: open to suggestion Weakness: always sleepy,,,,,,,,,,20330f5c-40c2-4f6a-b9d8-d1d04fb97daf
+323,Mutiso-the-lastborn,mutiso the lastborn,masked up mutiso dozing off,male,Hair:bald Eyes: closed Teeth: none Skin: brownskin Clothing: yellow ankara Accessories: none  Expression: tired Strength: consistency weakness: pessismist,,,,,,,,,,0706c338-42eb-4d26-84ea-c24b39628200
+324,Omondi-the-vegeterian,omondi the vegeterian,omondi wears a green coat,male,Hair:bald Eyes: sharp eyed Teeth: none Skin: brownskin Clothing: green ankara Accessories: none Expression: alert Strength: leader Weakness: anxious,,,,,,,,,,bfb5e8d5-d7a7-4aa8-85e8-d7d9afd4adb3
+325,Barasa-the-optimist,barasa the optimist,looks up to the sky and makes a wish,male,Hair: bald Eyes: blue Teeth: none Skin: dark skin Clothing: brown ankara Accessories:none Expression: awake Strength: strong willed Weakness: immoral,,,,,,,,,,2da4bef4-38cc-4414-99ad-7361fac04b2b
+326,Mwembu-the-elder,mwembu the elder,"old but not so old, with yellow his favorite color",male,Hair: bald Eyes: black Teeth: none Skin: dark skin Clothing: dark ankara Accessories: none  Expression: plain Strength: fulfilled Weakness: angry,,,,,,,,,,36181230-6ac9-417f-af5c-23bdd2c25ecb
+327,Mbogi-the-fighter,mbogi the fighter,masked up mbogi after capture,male,Hair: baldEyes:  blackTeeth: noneSkin: darkskin Clothing: onesideankara Accessories: noneExpression: willfull Strength: fighter  Weakness: rebellious,,,,,,,,,,3a7bc3c4-1463-42ce-84c9-07337da64435
+328,Mrosho-the-runner,mrosho the runner,masked up mrosho,male,Hair: bald Eyes: sea blue Teeth: none Skin: darkskin Clothing: purple ankara Accessories: none Expression: alert  Strength: visionary  Weakness: destructive,,,,,,,,,,b2ca2c76-3b6d-43f1-8cc9-089b6ab83876
+329,Milele-the-african,milele the african,milele with a nice african print in orange,male,Hair: bald Eyes: blue Teeth: none Skin: dark skin Clothing: orange ankara Accessories: none Expression: timid Strength: leader Weakness: failure,,,,,,,,,,644b0259-d75c-456d-934c-ce7c052bad3a
+330,Olebon-the-oloibon,olebon the oloibon,olebon in customized buba sokoto,male,Hair: bald Eyes: closed Teeth: none Skin: darkskin Clothing: animal print Accessories: none Expression: surprised Strength: empathy   Weakness: Easily bored,,,,,,,,,,de261efe-731d-461e-b2e4-42edd2f48f72
+331,Chifu-the-maasai,chifu the maasai,clothing inspired by maasai shuka,male,Hair: bald Eyes: closed Teeth: none Skin: none Clothing: ankara shirt Accessories: none Expression: visionary Strength:  authentic Weakness: selfish,,,,,,,,,,239933c4-7177-4b5b-86e8-e6f952301344
+332,Mwangaa-the-voice,mwangaa the voice,mwangaa the chief,male,Hair:  bald Eyes: blue Teeth: none Skin: darkskin Clothing: white lined ankara Accessories: none Expression: kindness Strength:  brave Weakness: impatient,,,,,,,,,,49179b62-812d-4d0f-b518-4af7fa79f8bc
+333,Waforte-the-first,waforte the first,masked up man who does sleep a lot,male,Hair: bald Eyes: closedTeeth:none Skin: darkskin Clothing: jean ankara Accessories: none Expression: shy Strength:  Weakness: selfish,,,,,,,,,,871912a8-d96e-4594-b7b3-450d94ee6924
+334,Kariuki-the-prayerful-one,kariuki the prayerful one,kariuki closes his eyes,male,Hair: bald Eyes: closed eyes Teeth: Skin: Clothing: Accessories: Expression: bored Strength: intelligent  Weakness: passive,,,,,,,,,,6a5b6fa6-0f91-4b01-957f-c766945eb704
+335,Kenyanese-the-priest,kenyanese the priest,masked up man with with white cloth,male,Hair: bald Eyes: white Teeth: none Skin: darkskin Clothing: white jean shirt Accessories: none Expression: calculative Strength: kind Weakness: takes things personally,,,,,,,,,,0706c338-42eb-4d26-84ea-c24b39628200
+336,Nyimbo-the-singer,nyimbo the singer,glasses and a pot for the night,female,Hair:dreadlocks Eyes: glassed up Teeth:none Skin: brownskin Clothing: off shoulder ankara Accessories: a pot Expression: free spirited Strength: fair Weakness: impatient,,,,,,,,,,d05af807-b3e9-4ad3-8df1-b7864d2daa33
+337,maathai-the-nobel-winner,maathai the nobel winner,mathaai the warrior,female,Hair: pink afro Eyes: glassed up Teeth: none Skin: brownskin Clothing: colored ankara Accessories: noneExpression: strict Strength: leadership  Weakness:short sighted,,,,,,,,,,0871cb8c-8d56-445d-92c7-01793f327707
+338,Tish-the-angry-one,tish the angry one,angry tish with specs on,female,Hair: black huge afro Eyes:  none Teeth: broken teeth Skin: brownskin Clothing: offshoulder ankara Accessories: none Expression: disgusted Strength: blunt Weakness:greedy,,,,,,,,,,750a89dc-44ff-43bf-8211-b7776f1b5e52
+339,Wamenza-the-winner,wamenza the winner,wamenza the leader,female,Hair: laid back Eyes: none Teeth: none Skin: brownskin Clothing: offshoulder ankara Accessories: noneExpression: meditative Strength: strict Weakness: impulsive,,,,,,,,,,7348c9ed-4ac9-4785-9434-0a1f0dcaf8d8
+340,Isaya-the-track-king,isaya the track king,isaya the traveller,male,Hair: none Eyes: glassed up Teeth: none Skin: brown skin Clothing: bright ankara Accessories: none Expression: taken aback Strength: straight forward Weakness: selfish,,,,,,,,,,41781a16-d2b8-4fc6-a1f4-b9fffc5c95ba
+,,,,,,,,,,,,,,,
+TEAM RULER,,,,,,,,,,,,,,,
+341,mansur-the-partyrider,mansur the partyrider,Mansur is the life of a party and never caught dulling.,male,"Eyes: ash grey. Hair: bald,  Weakness: red-whine, Accessories: studs, Expression: Happy, Clothing: Agbada",,,,,,,,,,78db0f29-3936-4d9c-bb90-3dbf20dba2dd
+342,tola-the-businessman,tola the businessman,Tola loves business and owns several shops in idumota,female,"Eyes: midnightblack. Hair: brown bald,  Weakness: love, Accessories: mask, Expression: furious, Clothing: purple blow, Nose: rounded ",,,,,,,,,,1c5d5a6b-cf04-4bf9-978e-22a7e9bc5819
+343,abdullahi-the-honorable,abdullahi the honorable,"Popularly called ""buje budanu"" a godfather who lavishes money on young thugs",male,"Eyes: blue-blackish. Weakness: indecision, Mouth: black lips, Expression: notorius, Clothing: brown agbada, Stregth: intelligent ",,,,,,,,,,dd708276-445f-4483-8357-fc08e999328f
+344,ojukwu-the-badguy,ojukwu the badguy,Ojukwu likes to oppress and cause trouble,male,"Eyes: eagle eyeball. Weakness: weak will power, Accessories: Nose Mask, Expression: needy, Clothing: yellow lining blowse, Stregth:cross-dressing",,,,,,,,,,76c1eabf-15ea-446a-8426-472982c4d800
+345,odunsi-the-egbonadugbo,odunsi the egbonadugbo,Odunsi loves to advise and people in the community rely on him,male,"Eyes: dark brown. Weakness: emotional, Accessories: Nose Mask, Expression: depressed, Clothing: ankra wrap-style, Stregth: powerful",,,,,,,,,,2912ab8b-5875-4277-a5c2-a0209aee90ae
+346,ogogo-the-sugardaddy,ogogo the sugardaddy,A rich oil magnate who loves to 'solve' young women's problems with his millions,male,"Eyes: shinny white. Weakness: selfish, Accessories: neckbeads, Expression: scary, Clothing: purple danshiki, Stregth: brave",,,,,,,,,,aa575f30-04ad-45f9-a798-199465117793
+347,suli-the-amalaseller,suli the amalaseller,"Suli sells amala , she is very rude, and they say thats the secret to her sweet food",female,"Eyes: cat eyes. weakness: selfish, Accessories: nose mask, Expression: disappointed, Clothing: brown agba, Stregth: strong will-power",,,,,,,,,,46fd4821-04dd-4f65-9290-c130a00c4c93
+348,dolapo-the-afrocentric,dolapo the afrocentric,Dolapo loves african prints and loves to showcase culture,female,"Eyes: cat eyes. Weakness:emotional, Accessories: nose mask, Expression: happy, Clothing: an orange blouse with brown stripe, Stregth: beautiful",,,,,,,,,,cbab232b-5c62-4df8-867b-018a2e496cd4
+349,danjuma-the-saddist,danjuma-the-saddist,Danjuma is a grumpy man no one likes to associate with him,male,,,,,,,,,,,5a42af57-186e-425b-b6b1-f72bda4911ef
+350,chinedu-the-farmer,chinedu the farmer,An hardworking farmer who has 6 boys who help out on the farm,male,,,,,,,,,,,9e8a55d7-0d8d-465d-a628-08ddd387a2c6
+351,kola-the-baldguy,kola the baldguy,kola girls fall for his bald head and always barb it,male,,,,,,,,,,,c32f1757-da9c-49e8-bd79-510a42b6971a
+352,bola-the-bosslady,bola the bosslady,Bola commands boys and chill with men,female,,,,,,,,,,,09ff910d-a2be-49d5-8b27-b9378458701c
+353,kunle-the-alienguy,kunle the alienguy,People feared kunle because of his alien's colour,male,,,,,,,,,,,dea2f5d8-e3ba-4d3f-9a17-0a7edfd0c100
+354,segun-the-sharp,segun the sharp,Segun drives with caution and people love him for that,male,,,,,,,,,,,f9159a9c-f48d-4aee-bcc1-63c86209f806
+355,ola-the-hardguy,ola the hardguy,Ola is feared by many and he leveraged on that,male,,,,,,,,,,,a814fc77-bdfa-4e50-8ba8-3e4e4bcfb3c0
+356,emeka-the-chief,emeka the chief,Crowd are always at Emeka's house and people respect him,male,,,,,,,,,,,195e89c8-0b6f-43ad-9a2c-d20f03439e96
+357,ugochukwu-the-celeb,ugochukwu the celeb,Ugochukwu has many followers on social media,male,,,,,,,,,,,74775cda-cff4-4d21-8819-693127598eca
+358,adekunle-the-yorubademon,adekunle the yoruba demon,A womans' man with no devotion to any of them,male,,,,,,,,,,,5c98c2d8-3144-4e08-8a0f-9b8d7e4f5aa7
+359,favour-the-fashionista,favour the fashionista,Combining dresses is not a problem for Favour,female,,,,,,,,,,,19fc15c3-80fe-4d45-a2fe-be8f087d57c4
+360,jane-the-slayqueen,jane the slayqueen,Jane is always found in the midst of men and loves partying,female,,,,,,,,,,,74775cda-cff4-4d21-8819-693127598eca
+,,,,,,,,,,,,,,,
+TEAM VBELT,,,,,,,,,,,,,,,
+361,osas-the-ceo,osas the ceo,"Meet Osas, a Gen-Z CEO with the British accent.",Female,"Hair: purple dreadlocks, Accessory: gold glasses",,,,,,,,,,b10f7e42-4778-49db-820b-dabbad75504a
+362,nneka-the-rainbow babe,nneka the rainbow babe,"Nneka, the happy rainbow babe with the vibes",Female,"Hair: pink, Accessory: Pink",,,,,,,,,,e7e20ab8-03e0-4e0a-80aa-6e193f84426e
+363,temitope-the-spoilt girl,temitope the spoilt girl,"Temitope, our favourite Daddy's girl.",Female,"Teeth: vampire teeth, accessory: gold glasses",,,,,,,,,,10cbcbcb-754e-4175-b85d-d0c7eafa16a2
+364,bekeh-the-party animal,bekeh the party animal,"Baby Bekeh, Life of the party that goes home with your charger.",Female,"Hair: dark brown, Accessory: gold glasses",,,,,,,,,,f0558235-3043-46e5-b26c-5bde83cc67fb
+365,nana-the-tech lady,nana the tech lady,"Nana, the tech madam that doubles as Kumasi Adele in her bathroom every morning.",Female,"Accessory: gold glasses, beret, Hair: black",,,,,,,,,,e0858913-7050-4c4a-a2a0-442a88463334
+366,rofiat-the-marketer,rofiat the marketer,"Rofiat, the distressed marketing intern.",Female,"Eyes: Brown, Hair: Purple dreadlocks",,,,,,,,,,1e4d9bda-f6f9-4e7a-9381-bee4b074b56d
+367,zarifa-the-righteous,zarifa the righteous,"Meet Zarifa, a proper baddie for Christ.",Female,Eyes: Blue Hair: Pink,,,,,,,,,,c6955d16-c343-46bc-9bed-c069ea8cc65a
+368,modinat-the-troublesome,modinat the troublesome,"Modinat, The queen of Gbas Gbos.",Female,"Teeth: vampire teeth, Accessory: brown glasses, Hair: long maroon hair",,,,,,,,,,49eb44e8-1117-463b-b7b3-1bcea4258362
+369,amaka-our-mummy-g.o,amaka our mummy g.o,"Here's Amaka, our one and only mummy G.O who's been to hell and back.",Female,"Eyes: blue, Hair: dark brown",,,,,,,,,,853edc40-0f9d-40c5-ba78-46067dfd7f68
+370,mawusi-the-patient,mawusi the patient,"Meet Mawusi, the sweet sister waiting for her Canadian bobo.",Female,"Eyes: Blue, Accessory: beret, Hair: Black",,,,,,,,,,ca9ddc30-141a-493d-851b-71d34f599641
+371,nesta-the-difficult,nesta the difficult,"Meet Nesta,the National Chairlady, Shege Administrators of Nigeria. (SAN)",Female,"Hair: double puffy hair, Accessory: hair bands, Eyes: brown",,,,,,,,,,fc3b7ca7-efdb-45b2-b7c9-e69107484a43
+372,adaora-the-choir mistress,adaora the choir mistress,"Adaora, our able choir mistress that will take your boyfriend for vanishing.",Female,"Accessory: choker necklace, Eyes: brown, Hair: black",,,,,,,,,,df944505-da1a-424e-88aa-b9d365bd2775
+373,busayo-the-husband snatcher,busayo the husband snatcher,"Miss Busayo, Can transplant your husband with the blink of her eyes",Female,"Eyes: brown, Hair: brown",,,,,,,,,,73c8d935-4a71-41d2-a1de-066ae8d548e6
+374,wangari-the-waitress,wangari the waitress,"Wangari, the aspiring musician that doubles as a waitress.",Female,"Accessory: Purple earrings, eyes: brown eyes, hair: purple dreadlocks",,,,,,,,,,4bd7a15b-cc66-4e2d-8fdb-d550f2dd645c
+375,charlene-the-shy lady,charlene the shy lady,"Meet Charlene, the shy sweetheart next door.",Female,"Hair: brown afro, Eyes: brown",,,,,,,,,,36539b84-ada0-43cb-92d4-30596e07a39a
+376,addae-the-unretired,addae the unretired,"Mummy Addae, the hot grandma that has refused to retire.",Female,"Accessory: choker necklace, Eyes: brown, Hair: brown",,,,,,,,,,ced7b53c-73de-4fc7-a652-2b17ebfe68c9
+377,abena-the-slay queen,abena the slay queen,"Abena, the gang's slay queen",Female,"Eyes: squinting, Hair: long brown braids",,,,,,,,,,1e4728e1-3e45-4972-9755-4a38e784ff91
+378,gasira-the-violence mama,gasira the violence mama,"Sister Gasira, wipes people Oraimo cord for a living.",Female,"Teeth: vampire teeth, Hair: brown bun",,,,,,,,,,ea72337f-658f-4198-9ad6-39bc6212c20d
+379,salamatou-the-exchange student,salamatou the exchange student,"Salamatou, An Ivorian exchange student who's in love with Amala.",Female,"Accessory: beret, Hair: Black, Eyes: Squinted",,,,,,,,,,0e216fd1-d96a-4e3c-a59b-c807f772c5b3
+380,nguyen-the-foreigner,nguyen the foreigner,"Meet Nguyen, the Asian Aunt that's addicted to Waakaye.",Female,"Eyes: Squinted, Skin: White, Hair: dark brown",,,,,,,,,,0381301b-b5a3-42c1-9f73-2c43c0b8493f
+,,,,,,,,,,,,,,,
+TEAM AXE,,,,,,,,,,,,,,,
+381,Olofi,Olofi,Olofi is the Yoruba creator god and messenger.,Male,Eyes: Sky Blue. Accessories: FaceMask. Strength: Creation God. Weakness: Love,,,,,,,,,,26340cc4-e334-494e-a737-f2b4bb9bb22e
+382,Amadioha,Amadioha,Amadioha is the Igbo high god of thunder.,Male,Eyes:Shut. Hair: Bald. Accessories: FaceMask. Strength: Thunder Bolt.  Weakness:  PalmOil,,,,,,,,,,a0586a93-7aff-43cc-8282-d081b8d6fe90
+383,Sango,Sango,Sango is the yoruba diety of thunder.,Male,Hair:Shiny Bald. Clothing: AsoOke. Expression: Cunning. Strength: Thunder Clap. Weakness: Mice,,,,,,,,,,15e1775c-74fe-4a0b-b79c-49f6b730fa89
+384,Agwu,Agwu,Agwu is the Igbo deity of health and divination.,Male,Eyes: Aquamarine. Hair: Shiny Bald. Expression: Childlike. Strength: Healing. Weakness: Fire,,,,,,,,,,311a6713-66c9-43ce-82d8-e3ce03a87a81
+385,Tano,Tano,Tano is the master of the Ghana river Tano.,Male,Eyes: Squinted.  Clothing: Yellow Danshiki with patterns. ,,,,,,,,,,9c34a73f-33ee-4577-aba8-0982c1656ba7
+386,Anansi,Anansi,Anansi is a trickster god of stories of the Ghana people.,Male,Eyes: Sleepy. Accessories: FaceMask.  Clothing: Black Danshiki with patterns. Strength: Illusions. Weakness: Mirrors,,,,,,,,,,784f0f6b-4273-4a31-88d7-2455b96c9011
+387,Nyame,Nyame,Nyame is the omnipotent god of the Ghana region.,Male,"Eyes:Black, Hair:Bald, Expression: Serious. Accessories: Facemask. Clothing: Yellow Patterned Danshiki with black lining. Strength: HeatBlast. Weakness: Cattles. ",,,,,,,,,,f3af0bbd-0724-4696-89ff-ed67f63e6b4f
+388,Obatala,Obatala,Obatala is the lord of all gods in the Yoruba land.,Male,Eyes: Pitch Black. Expression: Mysterious. Clothing: Yellowish Blue Native. Strength: Oro Ase. Weakness: None. ,,,,,,,,,,c447c120-830e-4543-9cb3-5917ba36bce8
+389,Erinle,Erinle,"Erinle is a powerful hunter of the Yoruba land.,",Male,Eyes: Midnight black. Hair: Shiny Bald. Expression: Angry. Strength: Irongrip. Weakness: Food,,,,,,,,,,dacbbb38-087d-4248-8085-13b619da0ef9
+390,Ogun,Ogun,Ogun is the Yoruba God of iron and metal work.,Male,Expression: Amused. Hair: Shiny Bald. Clothing: Whitish Blue Ankara. Strength: Ironclaw. Weakness: Wood.,,,,,,,,,,94c607b3-791e-40df-bd93-50926f094143
+391,Abosom,Abosom,Abosom is the goddess of wisdom and knowledge of the Ghana people.,Female,Hair: Fuzzy Brown. Accessories: Glasses and Pipe. Expression: Baddie. Clothing: Patterned Danshiki.Strength: All knowing. Weakness: Ignorance,,,,,,,,,,b3427836-627b-41e4-a2d0-c29473448343
+392,Oya,Oya,Oya is the goddess of violent storms and winds of the Yoruba people.,Female,Hair; Purple Braids. Accessories: Glasses. Clothing: Darkish Blue Buba. Expression: Bitchy. Strength: Seduction. Weakness: Dirt,,,,,,,,,,22aaebe4-4659-44de-ab3d-c4dae11fe9f5
+393,Agbala,Agbala,Agbala is the stylish goddess of the future for the Igbo region.,Female,"Hair: Black Knob. Accessories: Berret, Glasses and Gum. Expression: Unbothered. Clothing: Patterned Kente. Stength: Foresight. Weakness: Wine",,,,,,,,,,ca720bf9-5e47-4421-b38f-bc62162ae99e
+394,Njoku-ji,Njoku-ji,Njoku-ji is the goddess of new yam of the Igbo people.,Female,Hair: Light brown Cornrows. Accessories: Glasses. Clothing: Patterned Isiagu. Expression: Blank. ,,,,,,,,,,3b795bad-91b4-4d0e-8ed8-bccbb226fc55
+395,Akonadi,Akonadi,Akonadi is the goddess of justice and prophesies of the Ghana people.,Female,Hair: Brown ,,,,,,,,,,2aebd094-3be5-4773-a7a0-361f6332a7d4
+396,Onyame,Onyame,Onyame is the goddess of the moon of the ghana region,Female,,,,,,,,,,,fb148f97-d309-45a4-b902-4e066ca13f96
+397,Ibeji,Ibeji,Ibeji is the goddess of balance and twin of the Yoruba people.,Female,,,,,,,,,,,7b210c03-5446-462d-980e-c73dbbc1e386
+398,Asase-ya,Asase-ya,Asase-ya is the goddess of fertility and love of the Ghanaian people,Female,,,,,,,,,,,80b51092-3fbc-4d0c-8518-fc461ccb6c80
+399,Yemoja,Yemoja,Yemoja is the stylish yoruba goddess of the rivers.,Female,,,,,,,,,,,1693b44d-96cf-4c2d-89be-9f4219c28447
+400,Yemaya,Yemaya,Yemaya is the Ghana goddess of rivers and waters.,Female,,,,,,,,,,,9609d0f4-d9d3-4cff-aa06-a9c459fefa39
+,,,,,,,,,,,,,,,
+TEAM BOOT,,,,,,,,,,,,,,,
+401,smirky-becky,smirky becky,Becky ends every statement she makes with a smirk.,female,"Eyes: Brown, Accessories: Ankara beret",,,,,,,,,,87bcc41f-eb3e-4ba2-9645-223c949a9b50
+402,ankara-scarlett,ankara scarlett,Scarlett is a tailor at yaba market and she loves what she does.,female,"Hair: Orange bun, Skin Colour: Caramel",,,,,,,,,,66d0149f-5f2a-4ded-8e6b-9bd7d7631c39
+403,sea-rastafaria,sea rastafaria,Ronke is the ghetto goddess that nobody wants to mess with. Stay clear!,female,"Hair: Purple dreadlocks, Skin Colour: Caramel",,,,,,,,,,d1556c97-9075-49fc-8bde-1826bfc2dbe1
+404,pretty-betty,pretty betty,Betty is always proud of her beauty.,female,"Hair: Orange bob, Skin Colour: Caramel",,,,,,,,,,6a4f5b7c-914d-42c5-8e5f-d1c34ca48886
+405,lola-medusa,lola medusa,Lola knows how to seduce every guys she is into.,female,"Hair: Long red braids, Skin Colour: Caramel",,,,,,,,,,32ec57f7-8272-4671-ad2d-db3dff99fe9f
+406,bukola-nosend,bukola nosend,Bukola is friends with many but always get moody.,female,"Hair: Brunette bob, Skin Colour: Dark brown",,,,,,,,,,59d19b13-09e2-412e-a669-df020e03ae10
+407,burna-morgan,burna morgan,Morgan paints the town red with her red hair.,female,"Hair: Two brunette buns, Skin colour: Dark brown, Accessories: Tobacco pipe",,,,,,,,,,d08af477-de20-4780-8449-46b87840b9fa
+408,afro-star,afro star,Bimbo is an afro star with great affluence.,female,"Hair: Orange afro, Skin Colour: Caramel",,,,,,,,,,40743b16-ae12-4b4a-989c-e5fbf1e2e0ca
+409,fiesty-sandra,fiesty sandra,"Sandra is a social animal, correct owambe ambassador.",female,"Hair: Brown bun, Accessories: Purple bubblegum",,,,,,,,,,d875aa6c-3e4a-4450-b09c-e9f1cdcc3947
+410,sister-nkechi-sabi,sister nkechi sabi,"Nkechi is the true definition of amebo, always in peoples business.",female,"Hair: Black low cut, Skin Colour: Brown",,,,,,,,,,a728a380-1d33-4080-841d-80b041474d8f
+411,unfriendly-gina,unfriendly gina,"Gina is an angry one, she has no friends but she has a lot of money.",female,"Hair: Orange bun, Skin Colour: Caramel, Expression: Stoic",,,,,,,,,,dd30a327-8a74-40a5-8207-19a790508ccc
+412,dada-ganster,dada ganster,"Dada respects no one, always finds pleasure terrorising others.",female,"Hair: Purple dreadlocks, Skin Colour: Brown, Expression: Annoyed",,,,,,,,,,e1a43f65-aad2-4385-ac5e-bc159c6e0f2a
+413,idoncare-linda,idoncare linda,"Linda is a beautiful but very annoying girl, she turns every thing to a fight.",female,"Hair: Orange bob, Skin Colour: Caramel, Expression: Mischievous",,,,,,,,,,ed04b47c-ae98-4db2-b71b-04d7bb976d45
+414,doubting-vivian,doubting vivian,"Vivian just like the thomas in the bible, she doubts all.",female,"Hair: Long red braids, Skin Colour: Caramel, Expression: Pissed",,,,,,,,,,a0282797-44ef-4bfb-a701-e4ed5e727d63
+415,simbi-side-eyed,simbi side eyed,Simbi is reserved but doesn't allow anyone intimidate her.,female,"Hair: Two orange buns, Skin Colour: Brown",,,,,,,,,,1f99104c-e98b-4c9a-9891-00a481e86008
+416,bambi-tekno,bambi tekno,Bambi is the dancer of the team.,female,"Hair: Brown low buns, Skin Colour: Blue,  Accessories: Yellow sunglasses",,,,,,,,,,95ff5e2c-1ff2-4d58-890b-de0f39f9d8ce
+417,saka-portable,saka portable,Saka is forever convinced that his toothless smile is the icing on his cake.,male,"Skin Colour: Blue, Accessories: Purple cap and yellow sunglasses",,,,,,,,,,bd98f74f-e42e-494e-8298-3183555ca666
+418,king-of-boys,king of boys,Busayo finds her way in ruling the boys and that's why she's king of boys.,female,"Hair: Black buns, Skin color: White, Accessories: Cigarette pipe",,,,,,,,,,a650e79c-f964-4eb1-aa89-f9c1dbdede76
+419,funky-alte-pop,funky alte pop,"Funke is always the life of every party, strong gen z advocate.",female,"Hair:  Two red buns, Skin color: White, Acessories Yellow sun shades, Expression: Rugged",,,,,,,,,,b6753a8b-6127-4e97-812b-99e465791ba3
+420,madame-ngozi,madame ngozi,Ngozi make heads turn with her bright colours.,female,"Hair: Brown afro, Skin  color: White, Accessories: Yellow sunglasses, Expression: Pissed",,,,,,,,,,7ecdbb1d-9a89-4136-b240-499051836979
