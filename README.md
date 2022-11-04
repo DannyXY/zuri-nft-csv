@@ -1,5 +1,11 @@
 ## WELCOME TO ZURI CSV PARSER
 
+Clone the repo into your local machine
+
+```bash
+git clone https://github.com/DannyXY/zuri-nft-csv
+```
+
 To Use the CLI tool, you have to have node installed in your local system
 
 After installing node(If yoou didn't have it prior), Install all dependencies using this command
